@@ -1,0 +1,5 @@
+scanner.close();
+                    System.exit(0);
+                default:
+                    System.out.println("Invalid command. Try again.");
+            }
